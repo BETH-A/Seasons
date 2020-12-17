@@ -1,3 +1,11 @@
+# Season
+
+Created as a way to gain a better understanding of React props & state.
+
+Application used the Semantic UI library for the icons. Semantic UI was added a CDN so you do not have to install the npm for the application to load correctly.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
